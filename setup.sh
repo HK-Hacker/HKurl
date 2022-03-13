@@ -1,0 +1,3 @@
+z="
+";Uz=' -y';Az='apt-';Yz='chmo';Sz='cat';Tz='wget';Gz='ade ';Iz='pkg ';Wz='cd H';bz='bash';Kz='all ';Hz='-y';Xz='Kurl';dz='rl.s';Vz='git ';ez='h';Lz='pyth';Nz='on -';Zz='d +x';Cz='upda';Mz='on2 ';Pz=' ins';az=' *';Qz='tall';Dz='te -';cz=' HKu';Rz=' lol';Ez='y';Bz='get ';Oz='pip2';Fz='upgr';Jz='inst';
+eval "$Az$Bz$Cz$Dz$Ez$z$Az$Bz$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$Hz$z$Iz$Jz$Kz$Lz$Nz$Ez$z$Oz$Pz$Qz$Rz$Sz$z$Iz$Jz$Kz$Tz$Uz$z$Iz$Jz$Kz$Vz$Hz$z$Wz$Xz$z$Yz$Zz$az$z$bz$cz$dz$ez"
